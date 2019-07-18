@@ -7,6 +7,8 @@
  *Brief description of what this PR covers*
 
 ## Checklist:
+- [ ] My Branch includes updates to the Integration tests	
+ - [ ] My Branch name is based on a ticket number
 - [ ] dfgghdgfh
 
 
