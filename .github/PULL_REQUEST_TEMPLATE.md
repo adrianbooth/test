@@ -10,7 +10,7 @@
 
 | YES  | NO  |    |
 |---|---|---|
-| [ ] | [ ] | My Branch includes updates to the Integration tests |
+|- [ ] | [ ] | My Branch includes updates to the Integration tests |
 | [ ] | [ ] | My Branch name is based on a ticket number |
 | [ ] | [ ] | My PR description gives a summary of the work carried out |
 | [ ] | [ ] | My PR title is prefixed with "[Major]", "[Minor]" or "[Patch]" |
